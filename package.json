@@ -1,0 +1,35 @@
+{
+  "author": {
+    "name": "Jeswin Kumar",
+    "email": "jeswinpk@agilehead.com"
+  },
+  "name": "ceramic-types-service",
+  "version": "0.1.0",
+  "description": "Data Type Service for the ceramic ODM.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeswin/ceramic-types-manager.git"
+  },
+  "dependencies": {
+    "fora-data-utils": "*"
+  },
+  "main": "lib/ceramic-types-manager",
+  "engines": {
+    "node": ">= 0.11.9"
+  },
+  "keywords": [
+    "fora",
+    "data types"
+  ],
+  "license": "GPL-3.0+",
+  "gitHead": "0c6231547009c33dae8a52808ec5bf820218a1f3",
+  "bugs": {
+    "url": "https://github.com/jeswin/ceramic-types-manager/issues"
+  },
+  "maintainers": [
+    {
+      "name": "jeswin",
+      "email": "jeswinpk@agilehead.com"
+    }
+  ]
+}
