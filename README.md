@@ -1,4 +1,4 @@
-calcify-types-manager
+ceramic
 =====================
 
-Data Type Service for the Calcify ODM
+Serialization and validation for datatypes based on JSON Schema
